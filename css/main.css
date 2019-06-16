@@ -2720,12 +2720,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: left;
   bottom: 5px;
   margin-top: 20px;
+  margin-left: 10px;
   width: 100%;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   -ms-backface-visibility: hidden;
   backface-visibility: hidden;
 }
+
 
 .feedback-right .owl-dot {
   height: 10px;
@@ -3537,3 +3539,11 @@ body.mobile-nav-active #mobile-nav-toggle {
                End Blog Details  Page style
 ################
 */
+
+.kiri{
+  float: left;
+  padding: auto 0px;
+  margin: 0px 15px;
+  
+
+}
